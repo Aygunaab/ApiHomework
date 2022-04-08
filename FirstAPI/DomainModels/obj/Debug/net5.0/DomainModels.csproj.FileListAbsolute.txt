@@ -10,3 +10,15 @@ C:\Users\Admin\OneDrive\Desktop\API\FirstAPI\DomainModels\obj\Debug\net5.0\Domai
 C:\Users\Admin\OneDrive\Desktop\API\FirstAPI\DomainModels\obj\Debug\net5.0\DomainModels.dll
 C:\Users\Admin\OneDrive\Desktop\API\FirstAPI\DomainModels\obj\Debug\net5.0\ref\DomainModels.dll
 C:\Users\Admin\OneDrive\Desktop\API\FirstAPI\DomainModels\obj\Debug\net5.0\DomainModels.pdb
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\bin\Debug\net5.0\DomainModels.deps.json
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\bin\Debug\net5.0\DomainModels.dll
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\bin\Debug\net5.0\ref\DomainModels.dll
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\bin\Debug\net5.0\DomainModels.pdb
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\obj\Debug\net5.0\DomainModels.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\obj\Debug\net5.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\obj\Debug\net5.0\DomainModels.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\obj\Debug\net5.0\DomainModels.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\obj\Debug\net5.0\DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\obj\Debug\net5.0\DomainModels.dll
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\obj\Debug\net5.0\ref\DomainModels.dll
+C:\Users\Admin\OneDrive\Desktop\ApiHomework\FirstAPI\DomainModels\obj\Debug\net5.0\DomainModels.pdb

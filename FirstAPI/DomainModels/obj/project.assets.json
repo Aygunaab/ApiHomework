@@ -746,11 +746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\API\\FirstAPI\\DomainModels\\DomainModels.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\ApiHomework\\FirstAPI\\DomainModels\\DomainModels.csproj",
       "projectName": "DomainModels",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\API\\FirstAPI\\DomainModels\\DomainModels.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ApiHomework\\FirstAPI\\DomainModels\\DomainModels.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\API\\FirstAPI\\DomainModels\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ApiHomework\\FirstAPI\\DomainModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

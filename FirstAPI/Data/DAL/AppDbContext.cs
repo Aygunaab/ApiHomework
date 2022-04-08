@@ -14,5 +14,6 @@ namespace Data.DAL
         {
         }
         public DbSet<Student> Students { get; set; }
+        public DbSet<Group> Groups { get; set; }
     }
 }

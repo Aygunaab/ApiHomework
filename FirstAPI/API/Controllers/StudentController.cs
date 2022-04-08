@@ -29,9 +29,9 @@ namespace API.Controllers
 
 
         [HttpGet]
-        public async Task<IActionResult> GetStudents()
+        public async Task<IActionResult> GetStudents(  )
         {
-            List<Student> students = await _repo.GetAll( s=>s.Name.Contains("A"));
+            List<Student> students = await _repo.GetAll();
             List<Student> studentsa = await _repo.GetAll();
 
             List<StudentDto> studentDtos = _mapper.Map<List<StudentDto>>(students);

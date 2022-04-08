@@ -6250,11 +6250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\API\\FirstAPI\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\ApiHomework\\FirstAPI\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\API\\FirstAPI\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ApiHomework\\FirstAPI\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\API\\FirstAPI\\API\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ApiHomework\\FirstAPI\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6271,11 +6271,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\OneDrive\\Desktop\\API\\FirstAPI\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\API\\FirstAPI\\Data\\Data.csproj"
+            "C:\\Users\\Admin\\OneDrive\\Desktop\\ApiHomework\\FirstAPI\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ApiHomework\\FirstAPI\\Data\\Data.csproj"
             },
-            "C:\\Users\\Admin\\OneDrive\\Desktop\\API\\FirstAPI\\DomainModels\\DomainModels.csproj": {
-              "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\API\\FirstAPI\\DomainModels\\DomainModels.csproj"
+            "C:\\Users\\Admin\\OneDrive\\Desktop\\ApiHomework\\FirstAPI\\DomainModels\\DomainModels.csproj": {
+              "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ApiHomework\\FirstAPI\\DomainModels\\DomainModels.csproj"
             }
           }
         }
